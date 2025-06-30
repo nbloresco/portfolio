@@ -1,8 +1,8 @@
 
-ABOUT ME
+# ABOUT ME
 IT professional with over 10 years of experience, demonstrating exceptional energy and expertise in delivering innovative solutions and driving operational excellence. Skilled in system management, integration, and project delivery, with proficiency in Windows Servers, networking, telephony systems, cloud infrastructure, and end-user support. Recognized for outstanding interpersonal skills, consistent performance under pressure, and a strong commitment to professionalism and excellence.
 
-CERTIFICATIONS
+# CERTIFICATIONS
 •	Amazon AWS Certified: Solutions Architect Associate
 •	Amazon AWS Certified: Cloud Practitioner
 •	Microsoft Certified: Azure Administrator Associate
@@ -10,7 +10,7 @@ CERTIFICATIONS
 •	Microsoft Certified: Azure Fundamentals 
 •	ISC2: Certified in Cybersecurity
 
-ACQUIRED KNOWLEDGE
+# ACQUIRED KNOWLEDGE
 •	Solid understanding of cloud computing concepts and principles on Amazon Web Services (AWS).
 •	Proficient in navigating and utilizing the AWS Management Console.
 •	In-depth knowledge of AWS Identity and Access Management (IAM).
@@ -19,7 +19,7 @@ ACQUIRED KNOWLEDGE
 •	Deployment of AWS 3 tier architecture
 •	Strong knowledge of cybersecurity principles, compliance, risk assessment, threat management and mitigation.
 
-SELECTED ACCOMPLISHMENTS
+# SELECTED ACCOMPLISHMENTS
 •	PABX System Replacement for M1 Limited: Provided professional assistance to vendors in replacing M1 Limited's Nortel PBX System with an Avaya PBX System.
 •	Kana Email Management System Upgrade: Served as the Technical Lead, supporting vendors in upgrading the Kana Email System for M1 Limited.
 •	Genesys CTI Server Upgrade for M1 Limited: Technical Lead to support vendors in upgrading the Genesys CTI servers for M1 Limited, ensuring seamless system transition.
