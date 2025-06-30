@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist  Scientist
 
 ### Education
 Physics, Phd
